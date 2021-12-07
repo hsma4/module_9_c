@@ -1,18 +1,16 @@
-name: hsma_forecast3
+name: hsma4_forecast9c
 channels:
-  - defaults
   - conda-forge
 dependencies:
-  - jupyterlab=2.1.2
-  - matplotlib=3.2.1
-  - notebook=6.0.3
-  - numpy=1.18.1
-  - pandas=1.0.3
-  - pip=20.0.2
-  - python=3.7.7
+  - jupyterlab=3.2.4
+  - matplotlib=3.5.0
+  - numpy=1.21.4
+  - pandas=1.3.4
+  - pip=21.0.1
+  - python=3.8.8
   - scipy=1.4.1
-  - seaborn=0.10.0
+  - seaborn=0.11.2
   - statsmodels=0.11.1
   - pip:
-    - tensorflow==2.3.1
-    - forecast-tools==0.1.5
+    - tensorflow==2.7.0
+    - forecast-tools==0.1.6
