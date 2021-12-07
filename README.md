@@ -20,15 +20,18 @@
 
 ## Setup for the course
 
-You are provided with a conda environment (see environment.yml) that you can use to install the dependencies.  To install follow these instructions.
+**Google colab is the easiest way to run the notebooks in this module (see links below)**.  The notebooks have been tested with Tensorflow 2.7 (and 2.3).  If you wish to run the code locally you are provided with a conda environment (see binder/environment.yml) that you can use to install the dependencies.  To install follow these instructions.
+
+0. Optionally you may want to update conda before creating the virtual environment
+   * `conda update conda`
 
 1. Open an anaconda prompt (or terminal on Mac and Linux) in the same directory as the course files.  Run the following command
 
-   * `conda env create -f environment.yml`
+   * `conda env create -f binder/environment.yml`
 
 2. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma_forecast3`.  You need to activate it.
 
-   * `conda activate hsma_forecast3`
+   * `conda activate hsma4_forecast9c`
 
 3. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt or terminal (making sure you are in the same directory as the files)
 
