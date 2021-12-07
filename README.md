@@ -45,8 +45,11 @@ Jupyter will then open.
 If you are experiencing issues with Jupyter-Lab on your personal computer then you can also run the notebooks in google colab.  Use the links below to launch them
 
 ## Code along lectures
-* Code along 1: Preprocessing data and autoregression basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12c_advanced_forecasting/code_along_lectures/01_autoregression.ipynb)
 
-* Code along 2: Forecasting using a feedforward neural network [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma-master/hsma/blob/master/12c_advanced_forecasting/code_along_lectures/02_autoregression_keras.ipynb)
+https://github.com/hsma4/module_9_c
+
+* Code along 1: Preprocessing data and autoregression basics [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_c/blob/main/code_along_lectures/01_autoregression.ipynb)
+
+* Code along 2: Forecasting using a feedforward neural network [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hsma4/module_9_c/blob/main/code_along_lectures/02_autoregression_keras.ipynb)
 
 
