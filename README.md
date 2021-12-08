@@ -1,5 +1,5 @@
 # Advanced forecasting with Feedforward Neural Networks
-# HSMA 2020
+# HSMA 2021-22
 
 -----
 
